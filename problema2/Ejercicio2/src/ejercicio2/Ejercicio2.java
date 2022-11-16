@@ -17,7 +17,7 @@ public class Ejercicio2 {
         String descripcion;
         int cantidad;
         double preciouni;
-        double descuento = 10;
+        double descuento = 15;
         double total;
         
         System.out.println("Ingrese la descripción/nombre del artículo: ");
